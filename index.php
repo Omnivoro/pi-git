@@ -8,5 +8,6 @@
 	<?php
 		echo "Contents here";
 	?>
+	<p>Parr&aacute;fo agregado</p>
 </body>
 </html>
