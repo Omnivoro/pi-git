@@ -1,6 +1,7 @@
 <html>
 <head>
 	<link href="css/styles.css" rel="stylesheet" type="text/css">
+	<script src="js/javascript.js"></script>
 	<title>Pildoras Inform&aacute;ticas</title>
 </head>
 <body>
@@ -9,5 +10,6 @@
 		echo "Contents here";
 	?>
 	<p>Parr&aacute;fo agregado</p>
+	<input type="button" onclick="saludo()" value="Dale ya!">
 </body>
 </html>
