@@ -9,5 +9,6 @@
 		echo "Contents here";
 	?>
 	<p>Parr&aacute;fo agregado</p>
+	<p>Segundo Parr&aacute;fo agregado</p>
 </body>
 </html>
